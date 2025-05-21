@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yrlwijesekara" alt="yrlwijesekara" /></a> </p>
 
+- 🔭 I’m currently working on **Fuchsius Software Company**
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://yrlwijesekara.github.io/portfolio/](https://yrlwijesekara.github.io/portfolio/)
+
+- 📫 How to reach me **yehanjb@gmail.com**
+
+- ⚡ Fun fact **I don't always test my code, but when I do, I do it in production.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yehan raveesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehan raveesha" height="30" width="40" /></a>
