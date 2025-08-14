@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://yrlwijesekara.github.io/portfolio/](https://yrlwijesekara.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://yrlwijesekara.github.io/portfolio/]([https://yrlwijesekara.github.io/portfolio/](https://yrlwijesekara.github.io/portfolio_YRL))
 
 - 📫 How to reach me **yehanjb@gmail.com**
 
